@@ -1,0 +1,10 @@
+C:\Users\jonat\source\repos\Compilador3.0\Compilador3.0\bin\Debug\Compilador3.0.exe.config
+C:\Users\jonat\source\repos\Compilador3.0\Compilador3.0\bin\Debug\Compilador3.0.exe
+C:\Users\jonat\source\repos\Compilador3.0\Compilador3.0\bin\Debug\Compilador3.0.pdb
+C:\Users\jonat\source\repos\Compilador3.0\Compilador3.0\obj\Debug\Compilador3.0.csprojAssemblyReference.cache
+C:\Users\jonat\source\repos\Compilador3.0\Compilador3.0\obj\Debug\Compilador3._0.Form1.resources
+C:\Users\jonat\source\repos\Compilador3.0\Compilador3.0\obj\Debug\Compilador3._0.Properties.Resources.resources
+C:\Users\jonat\source\repos\Compilador3.0\Compilador3.0\obj\Debug\Compilador3.0.csproj.GenerateResource.cache
+C:\Users\jonat\source\repos\Compilador3.0\Compilador3.0\obj\Debug\Compilador3.0.csproj.CoreCompileInputs.cache
+C:\Users\jonat\source\repos\Compilador3.0\Compilador3.0\obj\Debug\Compilador3.0.exe
+C:\Users\jonat\source\repos\Compilador3.0\Compilador3.0\obj\Debug\Compilador3.0.pdb
